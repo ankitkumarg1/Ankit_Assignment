@@ -1,0 +1,246 @@
+{
+  "data": {
+    "categories": [
+      {
+          "id" : 100,
+        "name": "Action Movies",
+        "image": "https://cdn.britannica.com/13/147813-050-37062815/Leonardo-DiCaprio-Joseph-Gordon-Levitt-Inception-Christopher-Nolan.jpg",
+        "movies": [
+          {
+              "id" : 101,
+            "name": "The Dark Knight",
+            "image": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/448/323/thumb_8A5BA105-2C36-4E07-8B6A-3489B0400592.jpg",
+            "description": "A gritty crime thriller featuring Batman and the Joker."
+          },
+          {
+            "id" : 102,
+            "name": "Inception",
+            "image": "https://cdn.britannica.com/13/147813-050-37062815/Leonardo-DiCaprio-Joseph-Gordon-Levitt-Inception-Christopher-Nolan.jpg",
+            "description": "A mind-bending sci-fi thriller exploring dreams and reality."
+          },
+          {
+            "id" : 103,
+            "name": "Mad Max: Fury Road",
+            "image": "https://neiloseman.com/wp-content/uploads/2015/05/cars.jpg",
+            "description": "Intense post-apocalyptic chase through the desert."
+          },
+          {
+            "id" : 104,
+            "name": "The Bourne Identity",
+            "image": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-703017328.jpg",
+            "description": "Amnesiac man evades assassins while seeking identity."
+          },
+          {
+            "id" : 105,
+            "name": "John Wick",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/John_Wick_Keanu.jpeg",
+            "description": "Retired hitman seeks vengeance for a personal loss."
+          },
+          {
+            "id" : 106,
+            "name": "Die Hard",
+            "image": "https://m.media-amazon.com/images/I/819cf1ZR2WL._AC_UF1000,1000_QL80_.jpg",
+            "description": "NYPD officer battles terrorists in a skyscraper."
+          },
+          {
+            "id" : 107,
+            "name": "Terminator 2: Judgment Day",
+            "image": "https://lionsgate.brightspotcdn.com/8b/cb/d0dac7044b7db450e87befa94d58/terminator-2-judgment-day-movie-bg01-portrait.jpg",
+            "description": "Cyborg and boy fight against a shape-shifting terminator."
+          },
+          {
+            "id" : 108,
+            "name": "Gladiator",
+            "image": "https://www.denofgeek.com/wp-content/uploads/2020/06/Russell-Crowe-as-Maximus-in-Gladiator-20th-Anniversary.jpg?fit=1400%2C916",
+            "description": "Betrayed general seeks revenge as a gladiator."
+          },
+          {
+            "id" : 109,
+            "name": "The Matrix",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTBhZGE4NzUtNDRhMi00MTlmLWIwY2UtODUwMzA4MWM3Nzc1XkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+            "description": "Hacker discovers reality is a simulation, fights back."
+          },
+          {
+            "id" : 110,
+            "name": "Avengers: Endgame",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjQxOGNiZDQtYWM0MS00YmQxLTg1ODctNDQ4YTg5ZTBiYzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+            "description": "Heroes unite to undo Thanos' devastating actions."
+          }
+        ]
+      },
+      {
+         "id" :200,
+        "name": "Drama Movies",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71780,resizemode-75,msid-96406238/news/international/us/the-shawshank-redemption-where-to-watch-know-here.jpg",
+        "movies": [
+          {
+              "id" :201,
+            "name": "The Shawshank Redemption",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71780,resizemode-75,msid-96406238/news/international/us/the-shawshank-redemption-where-to-watch-know-here.jpg",
+            "description": "A gripping tale of hope and friendship in a prison setting."
+          },
+          {
+            "id" :202,
+            "name": "Forrest Gump",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGbWXPHVkAlWKBby0-sqkhgyEPMie8AocnA&s",
+            "description": "A heartwarming journey through American history with Forrest Gump."
+          },
+          {
+            "id" :203,
+            "name": "The Revenant",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg2OTU1MTM5MV5BMl5BanBnXkFtZTgwMzAyNjE1NzE@._V1_.jpg",
+            "description": "Frontiersman seeks revenge after being left for dead."
+          },
+          {
+            "id" :204,
+            "name": "Manchester by the Sea",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/b97f93561b4c2e1df9e5b2f346828298825d29a5650f3d2a737aeacae843c541._SX1080_FMjpg_.jpg",
+            "description": "Grieving man returns to hometown to care for nephew."
+          },
+          {
+            "id" :205,
+            "name": "Whiplash",
+            "image": "https://m.media-amazon.com/images/I/91ayOq4twzL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Drummer pushes limits under a ruthless instructor."
+          },
+          {
+            "id" :206,
+            "name": "The Social Network",
+            "image": "https://pyxis.nymag.com/v1/imgs/c45/f1c/57e73c4fa6a055af7789e65f0c2f3fd17a-the-social-network.2x.rsocial.w600.jpg",
+            "description": "Facebook's founding and the ensuing legal battles."
+          }
+          ,{
+              "id" :207,
+              "name": "Slumdog Millionaire",
+              "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/88-Slumdog-Millionaire-Still-Everett-MCDSLMI_FS005-EMBED-2022.jpg?w=1000",
+              "description": "Poor Indian teen competes on a game show, recounts life."
+            },
+          {
+              "id" :208,
+              "name": "Moonlight",
+              "image": "https://i.pinimg.com/736x/31/46/49/3146494054a879448f2701e6954774a3.jpg",
+              "description": "Black man grapples with his identity and sexuality."
+            },
+          {
+              "id" :209,
+              "name": "The Pianist",
+              "image": "https://m.media-amazon.com/images/I/91Kd4n1ENAL._AC_UF894,1000_QL80_.jpg",
+              "description": "Jewish pianist's survival during the Holocaust."
+            },
+          {
+              "id" :210,
+              "name": "American Beauty",
+              "image": "https://facts.net/wp-content/uploads/2023/06/46-facts-about-the-movie-american-beauty-1687337063.jpeg",
+              "description": "Suburban man experiences a personal and family crisis."
+            }
+          
+        ]
+      },
+      {
+          "id" : 300,
+        "name": "Comedy Movies",
+        "image": "https://www.beyoung.in/beyoungistan/wp-content/uploads/2023/03/Liar-Liar-1024x709.jpg",
+        "movies": [
+          {
+              "id" : 301,
+            "name": "Dumb And Dumber",
+            "image": "https://variety.com/wp-content/uploads/2014/11/dumb-and-dumber-to-15.jpg?w=250",
+            "description": "Two dim-witted friends' hilarious cross-country adventure."
+          },
+          {
+            "id" :302,
+            "name": "Liar Liar",
+            "image": "https://www.beyoung.in/beyoungistan/wp-content/uploads/2023/03/Liar-Liar-1024x709.jpg",
+            "description":  "Liar Liar: Jim Carrey forced to tell truth for 24 hours."
+          },
+          {
+            "id" :303,
+            "name": "Superbad",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/d667ccf6136062fa44dfc0808c936cece0a651852de6bc7e23d8661557f9b547.jpg",
+            "description":  "High school friends seek to party before graduation."
+          },
+          {
+            "id" :304,
+            "name": "Anchorman: The Legend of Ron Burgundy",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUwNTg5MjkwOF5BMl5BanBnXkFtZTgwMjcyNDkxMDI@._V1_QL75_UY281_CR10,0,500,281_.jpg",
+            "description":  "Eccentric news anchor clashes with new female colleague."
+          },
+          {
+            "id" :305,
+            "name": "The Hangover",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_.jpg",
+            "description":  "Friends retrace steps after a wild Las Vegas bachelor party."
+          }
+        ]
+      },
+      {
+          "id" : 400,
+        "name": "Horror Movies",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2I2NGE5MDktOTg4MS00MTQxLTlhOTktOTM5NjU2MTBmMWUzXkEyXkFqcGdeQXVyMjA3NDg2Mzg@._V1_.jpg",
+        "movies": [
+          {
+              "id" : 401,
+            "name": "Zodiac",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2I2NGE5MDktOTg4MS00MTQxLTlhOTktOTM5NjU2MTBmMWUzXkEyXkFqcGdeQXVyMjA3NDg2Mzg@._V1_.jpg",
+            "description": "Zodiac: Journalists hunt elusive serial killer in 1970s."
+            
+          },
+          {
+            "id" :402,
+            "name": "Hereditary",
+            "image": "https://m.media-amazon.com/images/I/715S7D8QY2L._AC_UF894,1000_QL80_.jpg",
+            "description":  "Hereditary: Family unravels dark secrets after tragedy."
+          },
+          {
+            "id" :403,
+            "name": "The Exorcist",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTNkYjc4YTYtZTVjNS00ZWI5LWI3MjItMWZiYTYzNTVmMWVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+            "description":  "A young girl possessed, priests perform exorcism."
+          },
+          {
+            "id" :404,
+            "name": "The Shining",
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/02/13/the-shining.jpg",
+            "description":  "Writer's descent into madness in a haunted hotel."
+          },
+          {
+            "id" :405,
+            "name": "Psycho",
+            "image": "https://alternativemovieposters.com/wp-content/uploads/2024/04/Antonio-Mossucca_Psycho.jpg",
+            "description":  "Marion Crane meets the mysterious Norman Bates."
+          },
+          {
+            "id" :406,
+            "name": "Halloween",
+            "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg",
+            "description":  "Michael Myers escapes, returns to kill teenagers."
+          },
+          {
+            "id" :407,
+            "name": "A Nightmare on Elm Street",
+            "image": "https://m.media-amazon.com/images/I/912cNjZfuTL._AC_UF1000,1000_QL80_.jpg",
+            "description":  "Freddy Krueger haunts teens in their dreams."
+          },
+          {
+            "id" :408,
+            "name": "The Silence of the Lambs",
+            "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-227480-SOL_Levine_head.jpg?w=1581&h=1054&crop=1",
+            "description":  "FBI trainee seeks help from cannibalistic Dr. Lecter."
+          },
+          {
+            "id" :409,
+            "name": "The Conjuring",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
+            "description":  "Paranormal investigators help a possessed family."
+          },
+          {
+            "id" :410,
+            "name": "Get Out",
+            "image": "https://miro.medium.com/v2/resize:fit:1013/1*Y1YsOwrkJkcxs65B8AEMQw.jpeg",
+            "description":  "African American man visits white girlfriend's eerie family."
+          }
+        ]
+      }
+    ]
+  }
+}
